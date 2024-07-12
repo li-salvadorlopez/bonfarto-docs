@@ -1,7 +1,62 @@
 site_name: Bonfarto Docs
 site_url: https://li-salvadorlopez.github.oi/bonfarto-docs
+repo_url: https://github.com/li-salvadorlopez/bonfarto
+#edit_uri: edit/master/docs/
 nav:
   - Home: index.md
+  - Domain Driven Design:
+      - ddd/index.md
+      - Event Storming: ddd/event-storming.md
+  - Architecture:
+      - architecture/index.md
+      - C4: architecture/c4.md
+      - Hexagonal Architecture: architecture/hexagonal-architecture.md
+      - Microservices: architecture/microservices.md
+  - Development:
+      - development/index.md
+      - Rest: development/rest.md
+      - HATEOAS: development/hateoas.md
+      - Validation: development/validation.md
+      - Test Driven Development: development/tdd.md
+      - Behaviour Driven Development: development/bdd.md
+      - Integration testing: development/integration-testing.md
+  - Deployment:
+      - deployment/index.md
+      - Continuous Integration and Continuous Delivery: deployment/cdci.md
+      - Kubernates: k8s.md
   - About: about.md
 theme:
   name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+        primary: indigo
+        accent: deep purple
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+        primary: indigo
+        accent: deep purple
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    #- navigation.tabs
+    #- navigation.tabs.sticky
+    - navigation.path
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+    - header.autohide
+    - navigation.footer
+    #- content.action.edit
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/salvadorlopezmarquez/
+    - icon: fontawesome/brands/github
+      link: https://github.com/li-salvadorlopez
