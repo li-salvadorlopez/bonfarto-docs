@@ -5,4 +5,49 @@
          <lastmod>2024-07-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>https://li-salvadorlopez.github.oi/bonfarto-docs/architecture/</loc>
+         <lastmod>2024-07-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://li-salvadorlopez.github.oi/bonfarto-docs/architecture/c4/</loc>
+         <lastmod>2024-07-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://li-salvadorlopez.github.oi/bonfarto-docs/architecture/hexagonal-architecture/</loc>
+         <lastmod>2024-07-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://li-salvadorlopez.github.oi/bonfarto-docs/architecture/microservices/</loc>
+         <lastmod>2024-07-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://li-salvadorlopez.github.oi/bonfarto-docs/ddd/</loc>
+         <lastmod>2024-07-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://li-salvadorlopez.github.oi/bonfarto-docs/ddd/event-storming/</loc>
+         <lastmod>2024-07-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://li-salvadorlopez.github.oi/bonfarto-docs/ddd/hexagonal-architecture/</loc>
+         <lastmod>2024-07-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://li-salvadorlopez.github.oi/bonfarto-docs/deployment/</loc>
+         <lastmod>2024-07-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://li-salvadorlopez.github.oi/bonfarto-docs/development/</loc>
+         <lastmod>2024-07-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
