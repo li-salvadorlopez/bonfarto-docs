@@ -2,6 +2,7 @@
 
 Bonfarto is a fictitious health care management system, the idea behind this project is to serve as a reference for 
 many different architectural concepts, practices, patterns and technologies, to mention a few of them:
+
 * Domain Driven Design
 * Microservices
 * Hexagonal architecture
@@ -17,9 +18,9 @@ While there are tons of repositories and projects that already have sample appli
 * Create microservices from the bounded contexts found on the event storming workshop.
 * Structure the application using Hexagonal architecture to separate the domain model from the data model and view models.
 
-and many other concepts, and the idea is that this project will have the settings that an application "close"
+and many other concepts, and the idea is that this project will be almost ready for production.
 
 ## The code
 This is the repository that contains the source code of this application.
 
-https://github.com/li-salvadorlopez/bonfarto/tree/master
+[Bonfarto repository](https://github.com/li-salvadorlopez/bonfarto/tree/master)
