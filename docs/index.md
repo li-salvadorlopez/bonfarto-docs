@@ -1,17 +1,25 @@
-# Welcome to MkDocs
+# Welcome to Bonfarto Docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bonfarto is a fictitious health care management system, the idea behind this project is to serve as a reference for 
+many different architectural concepts, practices, patterns and technologies, to mention a few of them:
+* Domain Driven Design
+* Microservices
+* Hexagonal architecture
+* Behaviour Driven Development
+* Spring framework ecosystem
+* C4 Model and Structurizr
+* Kubernates
 
-## Commands
+## Motivation
+While there are tons of repositories and projects that already have sample applications and sample code for many of these concepts, it was hard for me to find an example that will document the whole process of developing the application
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* Design it using Domain Driven Design and Event Storming.
+* Create microservices from the bounded contexts found on the event storming workshop.
+* Structure the application using Hexagonal architecture to separate the domain model from the data model and view models.
 
-## Project layout
+and many other concepts, and the idea is that this project will have the settings that an application "close"
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## The code
+This is the repository that contains the source code of this application.
+
+https://github.com/li-salvadorlopez/bonfarto/tree/master
